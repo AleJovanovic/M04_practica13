@@ -1,8 +1,14 @@
+#INTEGRANTE A
+
+from animal import animal
+p1 = animal("jaguar", "femenino", 4, 0, "Nina")
+p1.salutacio()
+
+
+#integrante B
 from book import book
 from user import user
 from university import university
-
-#integrante B
 
 print("Valores de book")
 
